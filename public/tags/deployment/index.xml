@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mmutawakil</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on mmutawakil</description>
+    <title>Deployment on mmutawakil</title>
+    <link>http://localhost:1313/tags/deployment/</link>
+    <description>Recent content in Deployment on mmutawakil</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Sep 2025 14:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying My Portfolio with Cloudflare Pages</title>
       <link>http://localhost:1313/blogs/deploying-to-cloudflare/</link>
       <pubDate>Sat, 13 Sep 2025 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/deploying-to-cloudflare/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Launching My First Portfolio</title>
-      <link>http://localhost:1313/blogs/my-first-portfolio/</link>
-      <pubDate>Sat, 13 Sep 2025 13:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/my-first-portfolio/</guid>
-      <description>How I built my first portfolio using Hugo and the Congo theme.</description>
     </item>
   </channel>
 </rss>

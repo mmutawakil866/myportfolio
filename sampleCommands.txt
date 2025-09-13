@@ -3,3 +3,4 @@ hugo new content content/blogs/my-first-portfolio/index.md
 
 hugo new content content/blogs/#NEW FOLDER NAME#/index.md
 
+hugo new content content/blogs/deploying-to-cloudflare/index.md
