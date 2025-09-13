@@ -1,0 +1,5 @@
+hugo new content content/blogs/my-first-portfolio/index.md
+
+
+hugo new content content/blogs/#NEW FOLDER NAME#/index.md
+
