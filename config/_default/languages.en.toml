@@ -14,7 +14,7 @@ title = "mmutawakil"
 
 [params.author]
   name = "Mutawakil Muniru"
-  image = "img/author.png"
+  image = "img/image.png"
    headline = "Software Engineer 🛠️"
   # bio = "A little bit about you"
   links = [
