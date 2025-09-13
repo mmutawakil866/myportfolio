@@ -6,14 +6,14 @@
     <description>Recent content on mmutawakil</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 13:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 13:15:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Portfolio</title>
+      <title>Launching My First Portfolio</title>
       <link>http://localhost:1313/blogs/my-first-portfolio/</link>
-      <pubDate>Sat, 13 Sep 2025 13:01:52 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 13:15:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/my-first-portfolio/</guid>
-      <description></description>
+      <description>How I built my first portfolio using Hugo and the Congo theme.</description>
     </item>
   </channel>
 </rss>
