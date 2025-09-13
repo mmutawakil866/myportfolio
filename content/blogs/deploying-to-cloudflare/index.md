@@ -3,6 +3,7 @@ title = "Deploying My Portfolio with Cloudflare Pages"
 date = 2025-09-13T14:00:00Z
 draft = false
 description = "How I deployed my Hugo + Congo portfolio using Cloudflare Pages."
+summary = "How I deployed my Hugo + Congo portfolio using Cloudflare Pages."
 tags = ["portfolio", "hugo", "congo", "cloudflare", "deployment", "ci-cd"]
 +++
 
