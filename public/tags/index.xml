@@ -6,20 +6,62 @@
     <description>Recent content in Tags on mmutawakil</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 16:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ci-Cd</title>
-      <link>http://localhost:1313/tags/ci-cd/</link>
-      <pubDate>Sat, 13 Sep 2025 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ci-cd/</guid>
+      <title>Api</title>
+      <link>http://localhost:1313/tags/api/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backend</title>
+      <link>http://localhost:1313/tags/backend/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloudflare</title>
       <link>http://localhost:1313/tags/cloudflare/</link>
-      <pubDate>Sat, 13 Sep 2025 14:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Express</title>
+      <link>http://localhost:1313/tags/express/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/express/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mongodb</title>
+      <link>http://localhost:1313/tags/mongodb/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nodejs</title>
+      <link>http://localhost:1313/tags/nodejs/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sufii</title>
+      <link>http://localhost:1313/tags/sufii/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sufii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ci-Cd</title>
+      <link>http://localhost:1313/tags/ci-cd/</link>
+      <pubDate>Sat, 13 Sep 2025 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ci-cd/</guid>
       <description></description>
     </item>
     <item>

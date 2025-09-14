@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhikr on mmutawakil</title>
+    <link>http://localhost:1313/tags/dhikr/</link>
+    <description>Recent content in Dhikr on mmutawakil</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Sep 2025 17:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dhikr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing the Dhikr Resource</title>
+      <link>http://localhost:1313/blogs/working-on-the-dhikr-resource/</link>
+      <pubDate>Sat, 13 Sep 2025 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/working-on-the-dhikr-resource/</guid>
+      <description>We added the Dhikr resource to the Sufii API: setting up a schema in MongoDB, handling audio uploads with worker threads, processing video and links into audio, and integrating Cloudflare R2 storage.</description>
+    </item>
+  </channel>
+</rss>
